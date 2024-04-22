@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
 html,
 body {
   height: 100%;
   margin: 0;
   padding: 0;
   background-color: rgb(226, 243, 226);
+  font-family: Sedan;
 }
 .navbar{
-  background-color: rgb(35, 163, 35);
+  background-color: rgb(38, 163, 38);
 }
 
 .text-center{
