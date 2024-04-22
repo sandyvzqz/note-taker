@@ -2,7 +2,7 @@
 Module 11 Challenge using express.js 
 
 ### Github : [Click this link!](github.com/sandyvzqz/note-taker)
-### Heroku : [Deployed App link](addlink.com)
+### Heroku : [Deployed App link](https://note-taker-expressjs-app-f8c7b6cab7b8.herokuapp.com/)
 
 ## Description 
 This application allows users to write, save, and delete notes using Express.js. The front end of this project was provided, but the back end functionality had to be created in order to make a fully functioning app. Using routers allowed for the backend of the application to be linked to the frontend, and vice versa. Some of the node libraries that were used for this project included: express, file system, uuid(a random id generator), and nodemon. Other technologies like JSON allowed data to be read/written in order to be viewed, saved, or deleted. 
